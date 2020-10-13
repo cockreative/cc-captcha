@@ -1,0 +1,11 @@
+setuptools~=50.3.0
+requests~=2.24.0
+beautifulsoup4~=4.9.2
+Django~=3.1.2
+imagetyperzapi3~=0.5
+urllib3~=1.25.10
+pyotp~=2.4.0
+django-debug-toolbar~=3.1.1
+django-organizations~=1.1.0
+celery~=5.0.0
+pymongo~=3.11.0
